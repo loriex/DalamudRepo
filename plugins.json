@@ -1,0 +1,27 @@
+[
+    {
+        "Author": "Marulu, StreetRat",
+        "Name": "XIVR - VR Mod",
+        "Punchline": "Mod to allow VR",
+        "Description": "Mod to allow vr.\nWARNING - SEIZURES If you are prone to epileptic seizures, DO NOT PLAY THIS MOD. Your desktop screen will flicker rapidly while VR is active. (The in-headset view won't flicker.)\n** Requires SteamVR **\nPlease click the globe icon for detailed instructions.\nChat/FAQ: flat2vr.com",
+        "Changelog": "",
+        "RepoUrl": "https://github.com/ProjectMimer/xivr",
+        "AssemblyVersion": "0.0.0.3",
+        "InternalName": "xivr",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 7,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/loriex/DalamudRepo/releases/download/0.0.0.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/loriex/DalamudRepo/releases/download/0.0.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/loriex/DalamudRepo/releases/download/0.0.0.3/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1667950105"
+    }
+]
