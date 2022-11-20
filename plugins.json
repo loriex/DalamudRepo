@@ -18,9 +18,9 @@
             ""
         ],
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/loriex/DalamudRepo/releases/download/0.0.0.3/latest.zip",
-        "DownloadLinkTesting": "https://github.com/loriex/DalamudRepo/releases/download/0.0.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/loriex/DalamudRepo/releases/download/0.0.0.3/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/loriex/DalamudRepo/main/download/xivr/0.0.0.3/xivr.json",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/loriex/DalamudRepo/main/download/xivr/0.0.0.3/xivr.json",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/loriex/DalamudRepo/main/download/xivr/0.0.0.3/xivr.json",
         "DownloadCount": 0,
         "LastUpdate": "1667950105"
     }
